@@ -12,9 +12,11 @@ library("xlsx")
 library("ggplot2")
 library("vegan")
 library("phyloseq")
-library("factoextra")
+# library("factoextra") # only a dependency for currently non-implemented functions... does not compile so forget it for now
 
-# Define UI for application that draws a histogram
+options(repos = BiocInstaller::biocinstallRepos())
+
+# Define UI
 ui <- fluidPage(
    
    # Application title
@@ -67,7 +69,7 @@ ui <- fluidPage(
    )
 )
 
-# Define server logic required to draw a heatmap
+# Define server logic
 server <- function(input, output) {
   
   compoundNames <- as.vector(read.table("./www/compound_names.txt", sep="\n"))
