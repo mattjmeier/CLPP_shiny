@@ -1,0 +1,33 @@
+Compound	Class
+Water (blank)	NA
+Pyruvic acid methyl ester	Carbohydrates
+Tween 40	Polymers
+Tween 80	Polymers
+Alpha-cyclodextrin	Polymers
+Glycogen	Polymers
+D-cellobiose	Carbohydrates
+Alpha-D-lactose	Carbohydrates
+Beta-methyl-D-glucoside	Carbohydrates
+D-xylose	Carbohydrates
+i-erythritol	Carbohydrates
+D-mannitol	Carbohydrates
+N-acetyl-D-glucosamine	Carbohydrates
+D-glucosaminic acid	Carboxylic & acetic acids
+Glucose-1-phosphate	Carbohydrates
+D,L-alpha-glycerol phosphate	Carbohydrates
+D-galactonic acid-gamma-lactone	Carboxylic & acetic acids
+D-galacturonic acid	Carboxylic & acetic acids
+2-Hydroxy benzoic acid	Carboxylic & acetic acids
+4-Hydroxy benzoic acid	Carboxylic & acetic acids
+Gamma-hydroxybutyric acid	Carboxylic & acetic acids
+Itaconic acid	Carboxylic & acetic acids
+Alpha-ketobutyric acid	Carboxylic & acetic acids
+D-malic acid	Carboxylic & acetic acids
+L-arginine	Amino acids
+L-asparagine	Amino acids
+L-phenylalanine	Amino acids
+L-serine	Amino acids
+L-threonine	Amino acids
+Glycyl-L-glutamic acid	Amino acids
+Phenylethylamine	Amines/amides
+Putrescine	Amines/amides
